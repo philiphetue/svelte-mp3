@@ -28,9 +28,9 @@
   "author": "Khandakar Shakib<xenonknight54@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@sveltejs/adapter-auto": "next",
-    "@sveltejs/adapter-netlify": "^1.0.0-next.51",
-    "@sveltejs/kit": "next",
+    "@sveltejs/adapter-auto": "1.0.0-next.34",
+    "@sveltejs/adapter-netlify": "1.0.0-next.51",
+    "@sveltejs/kit": "1.0.0-next.311",
     "svelte": "^3.44.0",
     "svelte-check": "^2.2.6",
     "svelte-preprocess": "^4.10.1",
